@@ -27,7 +27,7 @@ Go to "[qb]" > "qb-core" > shared > items.lua then copy this and paste in there 
     
 
 2 - Add the job:
-go to "qb-core" then shared folder > jobs.lua and at least under line 4 :
+go to "qb-core" then shared folder > jobs.lua
 
     ["cluckingbell"] = {
         label = "cluckingbell",
