@@ -26,15 +26,7 @@ Go to "[qb]" > "qb-core" > shared > items.lua then copy this and paste in there 
 -----------------------------	
     
 
-
-
-2 - Add custom sounds (Optional):
-
-"[standalone]" > "interact-sound" > client > html > sounds
-
-
-
-3 - Add the job:
+2 - Add the job:
 go to "qb-core" then shared folder > jobs.lua and at least under line 4 :
 
     ["cluckingbell"] = {
@@ -61,6 +53,16 @@ go to "qb-core" then shared folder > jobs.lua and at least under line 4 :
             },
         }
     },
+    
+    
+
+
+3 - Add custom sounds (Optional):
+
+"[standalone]" > "interact-sound" > client > html > sounds
+
+
+
 
 4 - Add images to inventory
-Go to the "Images" folder that came with the scripts simply click CTRL + A then CTRL + V go to "[qb]" > "qb-inventory" > html > images and click CTRL + C 
+"[qb]" > "qb-inventory" > html > images and click CTRL + C 
