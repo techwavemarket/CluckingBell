@@ -65,4 +65,4 @@ go to "qb-core" then shared folder > jobs.lua and at least under line 4 :
 
 
 4 - Add images to inventory
-"[qb]" > "qb-inventory" > html > images and click CTRL + C 
+"[qb]" > "qb-inventory" > html > images
